@@ -1,0 +1,12 @@
+App\Main.class
+net\javaguides\hibernate\dao\Service.class
+net\javaguides\hibernate\model\Command.class
+net\javaguides\hibernate\model\Bag.class
+net\javaguides\hibernate\model\IModel.class
+net\javaguides\hibernate\util\HibernateUtil.class
+net\javaguides\hibernate\model\Account.class
+net\javaguides\hibernate\model\Customer.class
+net\javaguides\hibernate\dao\CommandExecuterWBag.class
+net\javaguides\hibernate\dao\CommandExecuter.class
+net\javaguides\hibernate\model\Address.class
+net\javaguides\hibernate\model\Phone.class
